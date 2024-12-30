@@ -109,7 +109,7 @@
 1. **sarcasm_app/** — файлы для работы сервиса.
    - script.py — запуск приложения с использованием Streamlit.
    - requirements.txt — зависимости проекта.
-   - HybridModel_state_dict.pth — обученная модель.
+   - HybridModel_state_dict.pth — обученная модель (https://drive.google.com/drive/folders/101oMtemKn3OY14wUXw4j0-sDWFvy5yCG?usp=drive_link).
    - HybridTokenizer — токенизатор для обработки текста.
    - README.md
 2. **sarcasm_model/** — файлы для разработки и обучения модели.
