@@ -1,5 +1,0 @@
-
-torch==1.13.1
-transformers==4.23.1
-streamlit==1.15.0
-pyngrok==5.1.0
