@@ -109,9 +109,10 @@
 1. **sarcasm_app/** — файлы для работы сервиса.
    - script.py — запуск приложения с использованием Streamlit.
    - requirements.txt — зависимости проекта.
-   - HybridModel_state_dict.pth — обученная модель (https://drive.google.com/drive/folders/101oMtemKn3OY14wUXw4j0-sDWFvy5yCG?usp=drive_link).
-   - HybridTokenizer — токенизатор для обработки текста.
+   - HybridModel_state_dict.pth — обученная модель находится по ссылке: https://drive.google.com/drive/folders/101oMtemKn3OY14wUXw4j0-sDWFvy5yCG?usp=drive_link).
+   - HybridTokenizer — токенизатор для обработки текста 
    - README.md
+   - sarcasm_app — образ контейнера Podman находится по ссылке: https://drive.google.com/file/d/1Gl0aoLNzHqt4Lt2--AuG4gScx_1MCv3I/view?usp=sharing
 2. **sarcasm_model/** — файлы для разработки и обучения модели.
    - sarcasm_model.py — ноутбук с экспериментами.
    - sarcasm_model.pdf — ноутбук с экспериментами.
