@@ -112,7 +112,6 @@
    - HybridModel_state_dict.pth — обученная модель.
    - HybridTokenizer — токенизатор для обработки текста.
    - README.md
-   - sarcasm_app — образ контейнера Podman
 2. **sarcasm_model/** — файлы для разработки и обучения модели.
    - sarcasm_model.py — ноутбук с экспериментами.
    - sarcasm_model.pdf — ноутбук с экспериментами.
